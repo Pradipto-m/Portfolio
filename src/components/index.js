@@ -1,0 +1,10 @@
+export { default as Navbar } from './Navbar';
+export { default as Header } from './Header';
+export { default as About } from './About';
+export { default as Skills } from './Skills';
+export { default as Experience } from './Experience';
+export { default as Projects } from './Projects/Projects';
+export { default as Works2 } from './Projects/mobileView';
+export { default as Contacts } from './Contacts';
+export { default as Wave } from './Wave';
+export { default as Footer } from './Footer';

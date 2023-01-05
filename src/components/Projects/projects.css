@@ -1,0 +1,16 @@
+.swiper {
+  width: 100%;
+  padding-bottom: 5rem;
+}
+@media screen and (max-width: 640px) {
+  .swiper {
+    width: 21rem;
+    height: 22rem;
+    margin-top: 4rem;
+  }
+}
+
+.swiper-slide {
+  width: 29rem;
+  height: 24rem;
+}

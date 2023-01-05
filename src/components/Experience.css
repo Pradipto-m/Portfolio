@@ -1,0 +1,77 @@
+.circular {
+  height: 150px;
+  width: 150px;
+  position: relative;
+}
+.circular .inner,
+.circular .outer,
+.circular .circle {
+  position: absolute;
+  z-index: 2;
+  height: 100%;
+  width: 100%;
+  border-radius: 100%;
+}
+.circular .inner {
+  top: 9%;
+  left: 9%;
+  height: 123px;
+  width: 123px;
+  /* margin: -40px 0 0 -40px; */
+  background-color: #000120;
+  border-radius: 100%;
+}
+.circular .circle {
+  z-index: 1;
+}
+.circular .bar {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background: #000120;
+  border-radius: 100%;
+  clip: rect(0px, 150px, 150px, 75px);
+}
+.circle .bar .progress {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  border-radius: 100%;
+  clip: rect(0px, 75px, 150px, 0px);
+}
+.circle .bar .progress {
+  background: #ff6565;
+}
+.circle .left .progress {
+  z-index: 1;
+  animation: left 6.5s infinite;
+}
+@keyframes left {
+  34% {
+    transform: rotate(-180deg);
+  }
+  100% {
+    transform: rotate(-180deg);
+  }
+}
+.circle .right {
+  z-index: 2;
+  transform: rotate(180deg);
+}
+.circle .right .progress {
+  animation: right 6.5s infinite;
+  /* animation-delay: 1.5s; */
+}
+@keyframes right {
+  34% {
+    transform: rotate(180deg);
+  }
+  100% {
+    transform: rotate(180deg);
+  }
+}
+.info {
+  z-index: 3;
+  top: 21%;
+  left: 26%;
+}
