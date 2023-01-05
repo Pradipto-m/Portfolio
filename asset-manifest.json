@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.86612e0b.css",
+    "main.js": "/static/js/main.828c1ef3.js",
+    "static/js/787.eae6f066.chunk.js": "/static/js/787.eae6f066.chunk.js",
+    "static/media/header.png": "/static/media/header.541f1ce1260609a5a6d0.png",
+    "static/media/spaceman.png": "/static/media/spaceman.92367ebef03c8c0868c7.png",
+    "static/media/about04.png": "/static/media/about04.fa7b3a72ed32b0e25bfb.png",
+    "static/media/about01.png": "/static/media/about01.080509de05322b7aafda.png",
+    "static/media/ecommerce.png": "/static/media/ecommerce.522da76635d52117102b.png",
+    "static/media/mobile.png": "/static/media/mobile.23cbffb9db9e1867eef0.png",
+    "static/media/about.png": "/static/media/about.32846bc6328cfeafcf55.png",
+    "static/media/Rosmatika.ttf": "/static/media/Rosmatika.f7b5935032bdf59f2734.ttf",
+    "static/media/musicapp.png": "/static/media/musicapp.f1c301f91904ef5f9249.png",
+    "static/media/Nunito.ttf": "/static/media/Nunito.99a3b019e7727ac19479.ttf",
+    "static/media/component2.png": "/static/media/component2.283c80921b8ad2fd2f3d.png",
+    "static/media/component1.png": "/static/media/component1.6cb1abdafc66c51b8d6d.png",
+    "static/media/Gumela.otf": "/static/media/Gumela.0ae83c6988a536716eb4.otf",
+    "static/media/prologo.png": "/static/media/prologo.93c903653c281e1bc205.png",
+    "static/media/react.svg": "/static/media/react.ae62622598f39552abdcdb023e554c6f.svg",
+    "static/media/kotlin.svg": "/static/media/kotlin.288d3246c65f0ac69f7d7afcba5d769e.svg",
+    "static/media/flutter.svg": "/static/media/flutter.1b8f9149e623a24ce67a84d9b25b5d92.svg",
+    "static/media/android.svg": "/static/media/android.283f8050b48cba47a2bf0ec1cc5dfadc.svg",
+    "index.html": "/index.html",
+    "main.86612e0b.css.map": "/static/css/main.86612e0b.css.map",
+    "main.828c1ef3.js.map": "/static/js/main.828c1ef3.js.map",
+    "787.eae6f066.chunk.js.map": "/static/js/787.eae6f066.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86612e0b.css",
+    "static/js/main.828c1ef3.js"
+  ]
+}
